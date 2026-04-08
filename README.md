@@ -4,5 +4,5 @@
 
 ![Course Thumbnail](/thumb.png)
 
-node-modules needed for rootnode and frontend
+Node modules required for the backend (root) and frontend
 
