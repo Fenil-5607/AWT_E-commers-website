@@ -65,7 +65,7 @@ const Product = () => {
 
   return (
     <>
-      <div>
+      <div class="mt-20">
         <Link
           className="text-white font-semibold hover:underline ml-[10rem]"
           to="/"
@@ -81,7 +81,7 @@ const Product = () => {
         </Message>
       ) : (
         <>
-          <div className="flex flex-wrap relative items-between mt-[2rem] ml-[10rem]">
+          <div className="flex flex-wrap relative items-between mt-4 ml-[10rem]">
             <div>
               <img
                 src={product.image}
